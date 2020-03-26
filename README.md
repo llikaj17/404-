@@ -1,5 +1,5 @@
 # 404!
-Online Restaurant System
+# Online Restaurant System
 Handling data in a propper way is the key to success and efficiency nowdays.
 With the increase of number of customers, suppliers, employees and cash flow, it is neccessary to track in an efficient way all the operations of a business. A restaurant is one of them of course, that's why we chose a project related to the online system of restaurants.
 The restaurant that we are researching doesn't use a certain system but only Excel to record the employee data and inventory. They have tried some desktop systems for handling daily operations but haven't found the right one yet.
